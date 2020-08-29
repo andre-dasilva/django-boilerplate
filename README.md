@@ -23,8 +23,8 @@ So far this project contains the following features:
 
 - [x] Settings management for multiple environments (e.q development, production etc.)
 - [x] logging to console and to file example
-- [x] Custom User model with e-mail address
+- [x] Custom user model with e-mail address
 - [x] Two small apps (Task and User) with models and One-To-Many relationship
 - [x] Basic REST framework example
-- [x] Basic MVC example
+- [x] Basic MVC example with template
 - [ ] ...
