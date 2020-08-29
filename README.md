@@ -7,7 +7,7 @@ The goal is, that anyone could grab a feature like logging, rest framework, sett
 The **inspiration** for this project is the Python Zen Code: 
 > There should be one-- and preferably only one --obvious way to do it.
 
-I have seen multiple ways of doing something in django and to have a starter code that is usable in production is always nice :wink:
+There are a lot of boilerplate projects already, but this one should cover a lot of common needs in a project, especially for newcomers to django.
 
 ## Dependencies
 
