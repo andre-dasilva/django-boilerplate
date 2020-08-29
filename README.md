@@ -57,5 +57,5 @@ So far this project contains the following features:
 - [ ] Docker support
 - [ ] REST HATEOAS
 - [ ] SSL
-- [ ]...
+- [ ] and more ...
 
