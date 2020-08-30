@@ -21,7 +21,7 @@ This project contains the following django packages:
 
 So far this project contains the following features:
 
-- [x] Dependency management with [https://python-poetry.org/](https://www.djangoproject.com/) 
+- [x] Dependency management with [poetry](https://python-poetry.org/) 
 - [x] Settings management for multiple environments (e.q development, production etc.)
 - [x] logging to console and to file example
 - [x] Custom user model with e-mail address
