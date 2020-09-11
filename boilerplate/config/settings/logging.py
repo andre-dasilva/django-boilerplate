@@ -16,7 +16,6 @@ LOGGING = {
         },
         'file': {
             'class': 'logging.handlers.TimedRotatingFileHandler',
-            'level': 'DEBUG',
             'formatter': 'verbose',
             'when': 'D',
             'backupCount': 0,
@@ -27,4 +26,12 @@ LOGGING = {
         'handlers': ['console', 'file'],
         'level': 'DEBUG',
     },
+    # To log every db activity use django.db.backends logger, to log everything use django
+    # 'loggers': {
+    #     'django.db.backends': {
+    #         'handlers': ['console'],
+    #         'level': 'DEBUG',
+    #         'propagate': False,
+    #     },
+    # },
 }
